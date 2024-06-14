@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently working on [Mu](https://github.com/muxyz/mu), a new Micro app platform. You can try it out at [https://mu.xyz](https://mu.xyz).
+I'm currently working on [Mu](https://github.com/muxyz/mu), a new app platform. You can try it out at [https://mu.xyz](https://mu.xyz).
 
 Previously I worked on things like [Micro](https://github.com/micro/micro) and [Go Micro](https://github.com/go-micro/go-micro).
 
