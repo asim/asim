@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salam
 
 I'm currently working on [Mu](https://github.com/muxyz/mu). You can try it out at [https://mu.xyz](https://mu.xyz).
 
