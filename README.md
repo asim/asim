@@ -8,4 +8,3 @@ And there was also a VC funded platform called [M3O](https://github.com/m3o/m3o)
 
 Come join me on [Discord](https://mu.xyz/discord) to chat.
 
-<iframe src="https://github.com/sponsors/asim/button" title="Sponsor asim" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
