@@ -6,4 +6,4 @@ Previously I worked on things like [Micro](https://github.com/micro/micro) and [
 
 And there was also a VC funded platform called [M3O](https://github.com/m3o/m3o).
 
-In a past life I was an SRE at Google and a Sysadmin at a startup.
+In a past life I was an SRE at Google and Sysadmin before that.
